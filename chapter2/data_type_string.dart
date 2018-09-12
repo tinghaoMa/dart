@@ -55,5 +55,5 @@ void main(){
   print(str7.trim());
   print(str7.split('e'));
   print(str7.replaceAll('Hello', 'Dart'));
-  
+
 }

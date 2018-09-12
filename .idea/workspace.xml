@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9115180-9179-4da4-99a6-b01787354f26" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter2/data_type_string.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter2/data_type_bool.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter2/data_type_string.dart" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/data_type_string.dart" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,11 +25,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="data_type_string.dart" pinned="false" current-in-tab="true">
+      <file leaf-file-name="data_type_string.dart" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter2/data_type_string.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+            <state relative-caret-position="297">
+              <caret line="57" selection-start-line="57" selection-end-line="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data_type_bool.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter2/data_type_bool.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -61,6 +71,7 @@
         <option value="$PROJECT_DIR$/chapter2/var_and_const.dart" />
         <option value="$PROJECT_DIR$/chapter2/data_type_number.dart" />
         <option value="$PROJECT_DIR$/chapter2/data_type_string.dart" />
+        <option value="$PROJECT_DIR$/chapter2/data_type_bool.dart" />
       </list>
     </option>
   </component>
@@ -114,9 +125,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.data_type_string.dart">
+  <component name="RunManager" selected="Dart Command Line App.data_type_bool.dart">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="data_type_bool.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/chapter2/data_type_bool.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/chapter2" />
     </configuration>
     <configuration name="data_type_number.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/chapter2/data_type_number.dart" />
@@ -177,9 +192,11 @@
       <item itemvalue="Dart Command Line App.var_and_const.dart" />
       <item itemvalue="Dart Command Line App.data_type_number.dart" />
       <item itemvalue="Dart Command Line App.data_type_string.dart" />
+      <item itemvalue="Dart Command Line App.data_type_bool.dart" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.data_type_bool.dart" />
         <item itemvalue="Dart Command Line App.data_type_string.dart" />
         <item itemvalue="Dart Command Line App.data_type_number.dart" />
         <item itemvalue="Dart Command Line App.var_and_const.dart" />
@@ -296,8 +313,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter2/data_type_string.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
+        <state relative-caret-position="297">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter2/data_type_bool.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
         </state>
       </provider>
     </entry>
