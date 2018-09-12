@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9115180-9179-4da4-99a6-b01787354f26" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter3/operater_arithmetic.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter3/operator_realitaion.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter3/operater_arithmetic.dart" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/operater_arithmetic.dart" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,11 +25,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="operater_arithmetic.dart" pinned="false" current-in-tab="true">
+      <file leaf-file-name="operater_arithmetic.dart" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter3/operater_arithmetic.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+            <state relative-caret-position="289">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="operator_realitaion.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter3/operator_realitaion.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -66,6 +76,7 @@
         <option value="$PROJECT_DIR$/chapter2/data_type_map.dart" />
         <option value="$PROJECT_DIR$/chapter2/data_type_dynamic.dart" />
         <option value="$PROJECT_DIR$/chapter3/operater_arithmetic.dart" />
+        <option value="$PROJECT_DIR$/chapter3/operator_realitaion.dart" />
       </list>
     </option>
   </component>
@@ -118,13 +129,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.operater_arithmetic.dart">
+  <component name="RunManager" selected="Dart Command Line App.operator_realitaion.dart">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="data_type_bool.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/chapter2/data_type_bool.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/chapter2" />
     </configuration>
     <configuration name="data_type_dynamic.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/chapter2/data_type_dynamic.dart" />
@@ -140,6 +147,10 @@
     </configuration>
     <configuration name="operater_arithmetic.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/chapter3/operater_arithmetic.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/chapter3" />
+    </configuration>
+    <configuration name="operator_realitaion.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/chapter3/operator_realitaion.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/chapter3" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -181,19 +192,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Dart Command Line App.data_type_bool.dart" />
       <item itemvalue="Dart Command Line App.data_type_list.dart" />
       <item itemvalue="Dart Command Line App.data_type_map.dart" />
       <item itemvalue="Dart Command Line App.data_type_dynamic.dart" />
       <item itemvalue="Dart Command Line App.operater_arithmetic.dart" />
+      <item itemvalue="Dart Command Line App.operator_realitaion.dart" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.operator_realitaion.dart" />
         <item itemvalue="Dart Command Line App.operater_arithmetic.dart" />
         <item itemvalue="Dart Command Line App.data_type_dynamic.dart" />
         <item itemvalue="Dart Command Line App.data_type_map.dart" />
         <item itemvalue="Dart Command Line App.data_type_list.dart" />
-        <item itemvalue="Dart Command Line App.data_type_bool.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +234,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="right" id="Dart Analysis" order="8" weight="0.32736155" />
       <window_info anchor="bottom" id="Version Control" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.3252841" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.3252841" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -233,7 +244,7 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="4" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.39772728" />
+      <window_info active="true" anchor="bottom" id="Debug" order="6" visible="true" weight="0.39772728" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Dart Analysis" order="8" weight="0.32736155" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
@@ -475,8 +486,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter3/operater_arithmetic.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        <state relative-caret-position="289">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter3/operator_realitaion.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
