@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9115180-9179-4da4-99a6-b01787354f26" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter4/stmt_for.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/stmt_while.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,20 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="stmt_if.dart" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chapter4/stmt_if.dart">
+      <file leaf-file-name="stmt_while.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter4/stmt_while.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stmt_for.dart" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter4/stmt_for.dart">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+            <state relative-caret-position="320">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -72,6 +63,7 @@
         <option value="$PROJECT_DIR$/chapter3/opertor_condition.dart" />
         <option value="$PROJECT_DIR$/chapter4/stmt_if.dart" />
         <option value="$PROJECT_DIR$/chapter4/stmt_for.dart" />
+        <option value="$PROJECT_DIR$/chapter4/stmt_while.dart" />
       </list>
     </option>
   </component>
@@ -87,8 +79,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -105,7 +96,8 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -124,16 +116,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.stmt_for.dart">
+  <component name="RunManager" selected="Dart Command Line App.stmt_while.dart">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="operator_realitaion.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/chapter3/operator_realitaion.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/chapter3" />
-    </configuration>
-    <configuration name="operatpr_asignment.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/chapter3/operatpr_asignment.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/chapter3" />
     </configuration>
     <configuration name="opertor_condition.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
@@ -146,6 +134,10 @@
     </configuration>
     <configuration name="stmt_if.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/chapter4/stmt_if.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/chapter4" />
+    </configuration>
+    <configuration name="stmt_while.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/chapter4/stmt_while.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/chapter4" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -188,18 +180,18 @@
     </configuration>
     <list>
       <item itemvalue="Dart Command Line App.operator_realitaion.dart" />
-      <item itemvalue="Dart Command Line App.operatpr_asignment.dart" />
       <item itemvalue="Dart Command Line App.opertor_condition.dart" />
       <item itemvalue="Dart Command Line App.stmt_if.dart" />
       <item itemvalue="Dart Command Line App.stmt_for.dart" />
+      <item itemvalue="Dart Command Line App.stmt_while.dart" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.stmt_while.dart" />
         <item itemvalue="Dart Command Line App.stmt_for.dart" />
         <item itemvalue="Dart Command Line App.stmt_if.dart" />
         <item itemvalue="Dart Command Line App.opertor_condition.dart" />
         <item itemvalue="Dart Command Line App.operator_realitaion.dart" />
-        <item itemvalue="Dart Command Line App.operatpr_asignment.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -228,18 +220,18 @@
       <window_info anchor="bottom" id="Event Log" order="0" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="right" id="Dart Analysis" order="8" weight="0.32736155" />
-      <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.3252841" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25977197" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26465797" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.39772728" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
@@ -252,6 +244,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/chapter4/stmt_if.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter4/stmt_for.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter2/data_type_dynamic.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
@@ -529,6 +535,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/chapter4/stmt_for.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter4/stmt_if.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
@@ -536,10 +549,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chapter4/stmt_for.dart">
+    <entry file="file://$PROJECT_DIR$/chapter4/stmt_while.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="11" column="2" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
+        <state relative-caret-position="320">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
         </state>
       </provider>
     </entry>
