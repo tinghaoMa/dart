@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d9115180-9179-4da4-99a6-b01787354f26" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter4/break_and_continue.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/stmt_switch.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,11 +24,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="break_and_continue.dart" pinned="false" current-in-tab="true">
+      <file leaf-file-name="break_and_continue.dart" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter4/break_and_continue.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="309">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stmt_switch.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chapter4/stmt_switch.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="49">
+              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -74,6 +83,7 @@
         <option value="$PROJECT_DIR$/chapter4/stmt_for.dart" />
         <option value="$PROJECT_DIR$/chapter4/stmt_while.dart" />
         <option value="$PROJECT_DIR$/chapter4/break_and_continue.dart" />
+        <option value="$PROJECT_DIR$/chapter4/stmt_switch.dart" />
       </list>
     </option>
   </component>
@@ -126,7 +136,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Dart Command Line App.break_and_continue.dart">
+  <component name="RunManager" selected="Dart Command Line App.stmt_switch.dart">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -134,16 +144,16 @@
       <option name="filePath" value="$PROJECT_DIR$/chapter4/break_and_continue.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/chapter4" />
     </configuration>
-    <configuration name="opertor_condition.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/chapter3/opertor_condition.dart" />
-      <option name="workingDirectory" value="$PROJECT_DIR$/chapter3" />
-    </configuration>
     <configuration name="stmt_for.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/chapter4/stmt_for.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/chapter4" />
     </configuration>
     <configuration name="stmt_if.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/chapter4/stmt_if.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$/chapter4" />
+    </configuration>
+    <configuration name="stmt_switch.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/chapter4/stmt_switch.dart" />
       <option name="workingDirectory" value="$PROJECT_DIR$/chapter4" />
     </configuration>
     <configuration name="stmt_while.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
@@ -189,19 +199,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Dart Command Line App.opertor_condition.dart" />
       <item itemvalue="Dart Command Line App.stmt_if.dart" />
       <item itemvalue="Dart Command Line App.stmt_for.dart" />
       <item itemvalue="Dart Command Line App.stmt_while.dart" />
       <item itemvalue="Dart Command Line App.break_and_continue.dart" />
+      <item itemvalue="Dart Command Line App.stmt_switch.dart" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Dart Command Line App.stmt_switch.dart" />
         <item itemvalue="Dart Command Line App.break_and_continue.dart" />
         <item itemvalue="Dart Command Line App.stmt_while.dart" />
         <item itemvalue="Dart Command Line App.stmt_for.dart" />
         <item itemvalue="Dart Command Line App.stmt_if.dart" />
-        <item itemvalue="Dart Command Line App.opertor_condition.dart" />
       </list>
     </recent_temporary>
   </component>
@@ -568,8 +578,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter4/break_and_continue.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="309">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter4/stmt_switch.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
         </state>
       </provider>
     </entry>
